@@ -9,6 +9,7 @@ In this demo presentation, we’ll go through the steps to build a people direct
 
 HarborKnot organizes and hosts an official WordPress meetup.
 
+Presentation created with markdown and [deckset](https://www.deckset.com/).
 
 ## West LA WordPress meetup
 Santa Monica.  
